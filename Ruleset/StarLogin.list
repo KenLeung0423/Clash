@@ -1,1 +1,12 @@
-
+# NAME: StarLogin
+# AUTHOR: KenLeung0423
+# REPO: https://github.com/KenLeung0423/Clash
+# UPDATED: 2022-08-15
+# DOMAIN-SUFFIX: 1
+# DOMAIN: 4
+# TOTAL: 5
+DOMAIN-SUFFIX,starplus.com
+DOMAIN,star.api.edge.bamgrid.com
+DOMAIN,star.connections.edge.bamgrid.com
+DOMAIN,star.content.edge.bamgrid.com
+DOMAIN,star.playback.edge.bamgrid.com
