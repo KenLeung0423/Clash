@@ -1,3 +1,8 @@
+# NAME: KKBOX&KKTV
+# AUTHOR: KenLeung0423
+# REPO: https://github.com/KenLeung0423/Clash
+# UPDATED: 2023-01-13
+
 # > KKBOX
 # USER-AGENT,*KKBOX
 DOMAIN-SUFFIX,kkbox.com
