@@ -1,0 +1,10 @@
+# NAME: SkyShowTimerLogin
+# AUTHOR: KenLeung0423
+# REPO: https://github.com/KenLeung0423/Clash
+# UPDATED: 2023-04-11
+# DOMAIN-SUFFIX: 1
+# DOMAIN: 2
+# TOTAL: 3
+DOMAIN,skyshowtimeuk.data.adobedc.net
+DOMAIN-SUFFIX,skyshowtime.com
+DOMAIN,4ac1dd56e493354be504f063e4ae3440a13c6776.cws.conviva.com
