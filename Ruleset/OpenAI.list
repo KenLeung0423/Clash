@@ -1,10 +1,12 @@
 # NAME: OpenAI
 # AUTHOR: KenLeung0423
 # REPO: https://github.com/KenLeung0423/Clash
-# UPDATED: 2023-04-11
+# UPDATED: 2023-11-16
 # DOMAIN: 1
-# DOMAIN-SUFFIX: 2
-# TOTAL: 3
+# DOMAIN-SUFFIX: 4
+# TOTAL: 5
 DOMAIN, cdn.auth0.com
 DOMAIN-SUFFIX, ai.com
 DOMAIN-SUFFIX, openai.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
