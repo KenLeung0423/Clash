@@ -1,7 +1,11 @@
 # NAME: Myvideo
 # AUTHOR: KenLeung0423
 # REPO: https://github.com/KenLeung0423/Clash
-# UPDATED: 2023-02-07
+# UPDATED: 2026-07-03
 # DOMAIN-SUFFIX: 1
-# TOTAL: 1
+# DOMAIN: 3
+# TOTAL: 4
 DOMAIN-SUFFIX,myvideo.net.tw
+DOMAIN,bkm-vip-fo.cdn.tfn.net.tw
+DOMAIN,b114032-bks400-03.cdn.tfn.net.tw
+DOMAIN,b114032-bks400-02.cdn.tfn.net.tw
