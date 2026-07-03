@@ -1,9 +1,11 @@
 # NAME: Hami
 # AUTHOR: KenLeung0423
 # REPO: https://github.com/KenLeung0423/Clash
-# UPDATED: 2026-06-27
-# DOMAIN: 0
-# DOMAIN-SUFFIX: 1
-# TOTAL: 1
+# UPDATED: 2026-07-03
 payload:
-  - DOMAIN-SUFFIX,hinet.net
+#  - DOMAIN-SUFFIX,hinet.net
+  - DOMAIN,hamivideo.hinet.net
+  - DOMAIN,scc.ott.hinet.net
+  - DOMAIN-SUFFIX,t.ssp.hinet.net
+  - DOMAIN,social.ott.hinet.net
+  - '*hami*.cdn.hinet.net'
