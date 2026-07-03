@@ -1,8 +1,26 @@
 # NAME: Hami
 # AUTHOR: KenLeung0423
 # REPO: https://github.com/KenLeung0423/Clash
-# UPDATED: 2026-06-03
-# DOMAIN: 0
-# DOMAIN-SUFFIX: 1
-# TOTAL: 1
-DOMAIN-SUFFIX,hinet.net
+# UPDATED: 2026-07-03
+#DOMAIN-SUFFIX,hinet.net
+DOMAIN,hamivideo.hinet.net
+DOMAIN,apl-hamivideo.cdn.hinet.net
+DOMAIN,chatscc-hamivideo2.cdn.hinet.net
+DOMAIN,favoritescc-hamivideo2.cdn.hinet.net
+DOMAIN,hls-hamivideo.cdn.hinet.net
+DOMAIN,lgcscc-hamivideo2.cdn.hinet.net
+DOMAIN,pvr-hamivideo.cdn.hinet.net
+DOMAIN,scc-hamivideo.cdn.hinet.net
+DOMAIN,scc.ott.hinet.net
+DOMAIN-SUFFIX,t.ssp.hinet.net
+DOMAIN,static-hamivideo.cdn.hinet.net
+DOMAIN,thumbnail-hamivideo.cdn.hinet.net
+DOMAIN,tlmr-hamivideo2.cdn.hinet.net
+DOMAIN,tvcastlive-hamivideo.cdn.hinet.net
+DOMAIN,weblive-hamivideo.cdn.hinet.net
+DOMAIN,weblivea-hamivideo.cdn.hinet.net
+DOMAIN,webvodad-hamivideo.cdn.hinet.net
+DOMAIN,mobilevod-hamivideo.cdn.hinet.net
+DOMAIN,mobilelive-hamivideo.cdn.hinet.net
+DOMAIN,mobilelivebp-hamivideo.cdn.hinet.net
+DOMAIN,mobileevent-hamivideo.cdn.hinet.net
