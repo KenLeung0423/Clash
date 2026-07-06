@@ -9,7 +9,7 @@ payload:
   - DOMAIN-SUFFIX,aka02p.akamaized.net
   - DOMAIN-SUFFIX,aka31p.akamaized.net
   - DOMAIN,fetip-check-yknjkwjc5a-de.a.run.app
-  - DOMAIN,fridaycommunitypro-check-yknjkwjc5a-de.a.run.app
-  - DOMAIN,feedbackpro-check-yknjkwjc5a-de.a.run.app
+  - DOMAIN,fridaycommunitypro-yknjkwjc5a-de.a.run.app
+  - DOMAIN,feedbackpro-yknjkwjc5a-de.a.run.app
   - DOMAIN,asia-east1-fridaylog.cloudfunctions.net
   - DOMAIN,lm.visualon.info
