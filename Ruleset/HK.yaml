@@ -2,7 +2,7 @@
 # AUTHOR: KenLeung0423
 # REPO: https://github.com/KenLeung0423/Clash
 # UPDATED: 2026-07-06
-# NOW E/MyTvSuper/HOY TV
+# NOW E/MyTvSuper/HOY TV/VIU TV
 payload:
   - DOMAIN-SUFFIX,nowe.com
   - DOMAIN-SUFFIX,nowestatic.com
@@ -11,3 +11,4 @@ payload:
   - DOMAIN-SUFFIX,mytvsuperlimited.sc.omtrdc.net
   - DOMAIN-SUFFIX,tvb.com
   - DOMAIN-SUFFIX,hoy.tv
+  - DOMAIN-SUFFIX,viu.tv
