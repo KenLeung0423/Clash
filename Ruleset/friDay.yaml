@@ -1,15 +1,15 @@
 # NAME: friDay
 # AUTHOR: KenLeung0423
 # REPO: https://github.com/KenLeung0423/Clash
-# UPDATED: 2026-07-03
-# DOMAIN: 3
-# DOMAIN-SUFFIX: 4
-# TOTAL: 7
+# UPDATED: 2026-07-06
 payload:
   - DOMAIN-SUFFIX,fetnet.net
   - DOMAIN-SUFFIX,friday.tw
   - DOMAIN-SUFFIX,fridaylogger.com
   - DOMAIN-SUFFIX,aka02p.akamaized.net
+  - DOMAIN-SUFFIX,aka31p.akamaized.net
   - DOMAIN,fetip-check-yknjkwjc5a-de.a.run.app
-  - DOMAIN,lm.visualon.info
+  - DOMAIN,fridaycommunitypro-check-yknjkwjc5a-de.a.run.app
+  - DOMAIN,feedbackpro-check-yknjkwjc5a-de.a.run.app
   - DOMAIN,asia-east1-fridaylog.cloudfunctions.net
+  - DOMAIN,lm.visualon.info
