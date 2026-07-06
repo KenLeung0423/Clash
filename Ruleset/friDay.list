@@ -1,0 +1,14 @@
+# NAME: friDay
+# AUTHOR: KenLeung0423
+# REPO: https://github.com/KenLeung0423/Clash
+# UPDATED: 2026-07-06
+DOMAIN-SUFFIX,fetnet.net
+DOMAIN-SUFFIX,friday.tw
+DOMAIN-SUFFIX,fridaylogger.com
+DOMAIN-SUFFIX,aka02p.akamaized.net
+DOMAIN-SUFFIX,aka31p.akamaized.net
+DOMAIN,fetip-check-yknjkwjc5a-de.a.run.app
+DOMAIN,fridaycommunitypro-check-yknjkwjc5a-de.a.run.app
+DOMAIN,feedbackpro-check-yknjkwjc5a-de.a.run.app
+DOMAIN,asia-east1-fridaylog.cloudfunctions.net
+DOMAIN,lm.visualon.info
