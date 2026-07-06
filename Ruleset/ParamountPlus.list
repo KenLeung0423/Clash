@@ -1,10 +1,7 @@
 # NAME: ParamountPlus
 # AUTHOR: KenLeung0423
 # REPO: https://github.com/KenLeung0423/Clash
-# UPDATED: 2026-07-04
-# DOMAIN: 5
-# DOMAIN-SUFFIX: 5
-# TOTAL: 10
+# UPDATED: 2026-07-06
 DOMAIN,cbsi.live.ott.irdeto.com
 DOMAIN,cbsplaylistserver.aws.syncbak.com
 DOMAIN,cbsservice.aws.syncbak.com
@@ -15,3 +12,8 @@ DOMAIN-SUFFIX,cbsivideo.com
 DOMAIN-SUFFIX,paramountplus.com
 DOMAIN-SUFFIX,pplusstatic.com
 DOMAIN,vod.pplus.paramount.tech
+DOMAIN,bakery.pplus.paramount.tech
+DOMAIN,dns-clientinfo.vtg.paramount.tech
+DOMAIN,paramountdotcom.2cnt.net
+DOMAIN,paramountplus.qflm.net
+DOMAIN,thumbnails.cbsig.net
