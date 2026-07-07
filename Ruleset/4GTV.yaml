@@ -1,0 +1,8 @@
+# NAME: 4GTV
+# AUTHOR: KenLeung0423
+# REPO: https://github.com/KenLeung0423/Clash
+# UPDATED: 2026-07-07
+payload:
+  - DOMAIN-SUFFIX,4gtv.tv
+  - DOMAIN,4gtvfreepcvod-cds.cdn.hinet.net
+  - DOMAIN,4gtvfreepc-cds.cdn.hinet.net
