@@ -1,0 +1,11 @@
+# NAME: CATCHPLAY+
+# AUTHOR: KenLeung0423
+# REPO: https://github.com/KenLeung0423/Clash
+# UPDATED: 2026-07-07
+payload:
+  - DOMAIN-SUFFIX,catchplay.com
+  - DOMAIN,asiaplay-origin.s3.amazonaws.com
+  - DOMAIN,tra-ww000-cp.akamaized.net
+  - DOMAIN,ols-ww000-cp.akamaized.net
+  - DOMAIN,ols-ww100-cp.akamaized.net
+  - DOMAIN,dkfhw9rzsr80z.cloudfront.net
