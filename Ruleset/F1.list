@@ -2,8 +2,7 @@
 # AUTHOR: KenLeung0423
 # REPO: https://github.com/KenLeung0423/Clash
 # UPDATED: 2026-07-24
-# DOMAIN: 1
+# DOMAIN: 0
 # DOMAIN-SUFFIX: 1
-# TOTAL: 2
+# TOTAL: 1
 DOMAIN-SUFFIX,formula1.com
-DOMAIN,cdn.privacy-mgmt.com
