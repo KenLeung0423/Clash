@@ -1,0 +1,22 @@
+# NAME: TikTok
+# AUTHOR: KenLeung0423
+# REPO: https://github.com/KenLeung0423/Clash
+# UPDATED: 2026-07-26
+DOMAIN,p16-tiktokcdn-com.akamaized.net
+DOMAIN-SUFFIX,byteoversea.com
+DOMAIN-SUFFIX,ibytedtos.com
+DOMAIN-SUFFIX,ibyteimg.com
+DOMAIN-SUFFIX,ipstatp.com
+DOMAIN-SUFFIX,muscdn.com
+DOMAIN-SUFFIX,musical.ly
+DOMAIN-SUFFIX,sgpstatp.com
+DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,tik-tokapi.com
+DOMAIN-SUFFIX,tiktok.com
+DOMAIN-SUFFIX,tiktokcdn.com
+DOMAIN-SUFFIX,tiktokv.com
+HOST-KEYWORD,-tiktokcdn-com
+HOST-KEYWORD,musical.ly
+HOST-KEYWORD,tiktok
+HOST-KEYWORD,tiktokv
+USER-AGENT,TikTok*
