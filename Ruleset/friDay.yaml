@@ -13,4 +13,4 @@ payload:
   - DOMAIN,feedbackpro-yknjkwjc5a-de.a.run.app
   - DOMAIN,asia-east1-fridaylog.cloudfunctions.net
   - DOMAIN,lm.visualon.info
-  - DOMAIN,fetf.svc.litv.tv
+  - DOMAIN-SUFFIX,svc.litv.tv
