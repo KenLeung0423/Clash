@@ -1,7 +1,7 @@
 # NAME: friDay
 # AUTHOR: KenLeung0423
 # REPO: https://github.com/KenLeung0423/Clash
-# UPDATED: 2026-07-06
+# UPDATED: 2026-10-29
 payload:
   - DOMAIN-SUFFIX,fetnet.net
   - DOMAIN-SUFFIX,friday.tw
@@ -13,3 +13,4 @@ payload:
   - DOMAIN,feedbackpro-yknjkwjc5a-de.a.run.app
   - DOMAIN,asia-east1-fridaylog.cloudfunctions.net
   - DOMAIN,lm.visualon.info
+  - DOMAIN,fetf.svc.litv.tv
